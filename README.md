@@ -1,8 +1,15 @@
+
+
 # Olá! Eu sou Bernardo 👋
 
-🎓 Estudante do curso técnico integrado ao Ensino Médio em Desenvolvimento de Sistemas na ETEC.
+🎓 Estudante do curso técnico integrado ao Ensino Médio em **Desenvolvimento de Sistemas na ETEC**.
 
 💻 Tenho interesse em Tecnologia da Informação, programação e desenvolvimento de software. Atualmente, estou aprimorando meus conhecimentos e desenvolvendo projetos para colocar em prática o que aprendo durante minha formação.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/bernardo-eliando-3b3793447/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/BerEliandoCruz)
+
+---
 
 ## 🚀 Sobre mim
 
@@ -14,21 +21,25 @@
 ## 🛠️ Tecnologias e ferramentas
 
 **Linguagens de programação**
-- C
-- Java
-- JavaScript
+
+![C](https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Java](https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 **Desenvolvimento Web**
-- HTML
-- CSS
+
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 **Banco de dados**
-- MySQL
+
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 **Ferramentas e tecnologias**
-- Arduino
-- Git
-- GitHub
+
+![Arduino](https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=00979D)
+![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 ## 📂 Projetos
 
@@ -52,8 +63,9 @@
 
 ## 📫 Contato
 
-- **LinkedIn:** [Meu perfil profissional](www.linkedin.com/in/bernardo-eliando-ribeiro-silva)
+- **LinkedIn:** [Meu perfil profissional](https://www.linkedin.com/in/bernardo-eliando-3b3793447/)
 
 ---
 
 ⭐ Obrigado por visitar meu perfil!
+
