@@ -2,7 +2,7 @@
 
 # Olá! Eu sou Bernardo 👋
 
-🎓 Estudante do curso técnico integrado ao Ensino Médio em Desenvolvimento de Sistemas na ETEC.
+🎓 Estudante do curso técnico integrado ao Ensino Médio em **Desenvolvimento de Sistemas na ETEC**.
 
 💻 Tenho interesse em Tecnologia da Informação, programação e desenvolvimento de software. Atualmente, estou aprimorando meus conhecimentos e desenvolvendo projetos para colocar em prática o que aprendo durante minha formação.
 
@@ -47,11 +47,11 @@
 
 - [Arthur Morgan - Outlaw Run](https://github.com/BerEliandoCruz/Arthur-Morgan--Outlaw-Run) — Projeto de jogo desenvolvido com JavaScript.
 - [Parasite Depths](https://github.com/BerEliandoCruz/Parasite-depths) — Projeto de jogo desenvolvido com JavaScript.
-- [Taxas de Mortalidade](https://github.com/BerEliandoCruz/taxas-de-mortalidade) — Projeto de aplicação web sobre taxas de mortalidade, desenvolvido com Next.js, React e TypeScript.
+- [Taxas de Mortalidade](https://github.com/BerEliandoCruz/taxas-de-mortalidade) — Aplicação web para visualização de dados de mortalidade.
 
 ### Projetos acadêmicos concluídos
 
-- **Automação de portão com Arduino:** sistema de controle de motores, LEDs, botões e sinalização sonora.
+- **Automação de portão com Arduino:** sistema de controle de dois portões utilizando motores, botões, LEDs e sinalização sonora com buzzer.
 - **Modelagem de banco de dados MySQL:** criação de tabelas e relacionamentos utilizando SQL.
 
 ## 🎯 Objetivos
