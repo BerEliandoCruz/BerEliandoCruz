@@ -48,10 +48,10 @@
 - [Arthur Morgan - Outlaw Run](https://github.com/BerEliandoCruz/Arthur-Morgan--Outlaw-Run) — Projeto de jogo desenvolvido com JavaScript.
 - [Parasite Depths](https://github.com/BerEliandoCruz/Parasite-depths) — Projeto de jogo desenvolvido com JavaScript.
 - [Taxas de Mortalidade](https://github.com/BerEliandoCruz/taxas-de-mortalidade) — Aplicação web para visualização de dados de mortalidade.
+- [Automação de Portão com Arduino](https://github.com/BerEliandoCruz/automacao-portao-arduino) — Sistema de controle de dois portões utilizando motores, botões, LEDs e buzzer.
 
 ### Projetos acadêmicos concluídos
 
-- **Automação de portão com Arduino:** sistema de controle de dois portões utilizando motores, botões, LEDs e sinalização sonora com buzzer.
 - **Modelagem de banco de dados MySQL:** criação de tabelas e relacionamentos utilizando SQL.
 
 ## 🎯 Objetivos
